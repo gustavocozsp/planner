@@ -10,7 +10,10 @@
 
 > O "Planner" é um site desktop dedicado a facilitar o planejamento de viagens em grupo. Projetado para ser intuitivo e colaborativo, o Planner permite que amigos organizem suas aventuras de maneira eficiente e detalhada, desenvolvido durante a 16ª Next Level Week @Rocketseat
  
-![Planner](https://s3-alpha.figma.com/hub/file/6146154554/07077a05-04b2-41df-b4b1-191a6eee9e2a-cover.png)
+<p align="center">
+   <img src="./frontend/public/logo.svg" alt="Planner"/>
+</p>
+
 
 # Índice
 
