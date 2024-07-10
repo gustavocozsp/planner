@@ -72,11 +72,11 @@ $ npm install
 $ npm run dev
 ```
 
-# Issues
+# Bug's
 
 Por favor, não hesite em reportar um novo bug com todos os detalhes necessários no nosso repositório [planner](https://github.com/gustavocozsp/planner/issues). Se você já tem uma solução para o problema, ficaríamos felizes em analisar seu pull request!
 
-# Informations
+# Informações
 
 Feio com amor por: [Gustavo](https://www.linkedin.com/in/gustavocozsp/)
 
@@ -85,4 +85,4 @@ Este projeto está sob a [licença MIT](./LICENSE).
 Publicação no Linkedin durante a Next Level Week e o desenvolvimento desse projeto: [Aqui](https://www.linkedin.com/feed/update/urn:li:activity:7216450489347895296/)
 
 
-⭐ Caso você tenha gostado do projeto ou ele tenha te ajudo de alguma forma me dê uma nesse projto, muito obrigado!
+- Caso você tenha gostado do projeto ou ele tenha te ajudo de alguma forma me dê uma ⭐ nesse projto, muito obrigado!
