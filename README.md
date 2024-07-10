@@ -14,19 +14,16 @@
    <img src="./frontend/public/layout.png" alt="layout"/>
 </p>
 
+⚠️ Esse projeto foi desenvolvido apenas para fins de estudo.
 
 # Índice
 
-* [Pré-Visualização](#eyes-demo-website)   
 * [Tecnologias](#computer-technologies)
 * [Funcionalidades](#rocket-features)
 * [Setup](#construction_worker-how-to-run)
 * [Encontrou algum bug?](#bug-issues)
 * [Contribuições](#tada-contributing)
 * [Licença](#closed_book-license)
-
-# Pré-visualização
-- Você pode acessar a pré-visualização do site aqui: [Website]()
 
 # Tecnologias
 - Esse projeto foi desenvolvido usando as seguintes tecnologias:
