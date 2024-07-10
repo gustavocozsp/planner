@@ -16,15 +16,6 @@
 
 ⚠️ Esse projeto foi desenvolvido apenas para fins de estudo.
 
-# Índice
-
-* [Tecnologias](#computer-technologies)
-* [Funcionalidades](#rocket-features)
-* [Setup](#construction_worker-how-to-run)
-* [Encontrou algum bug?](#bug-issues)
-* [Contribuições](#tada-contributing)
-* [Licença](#closed_book-license)
-
 # Tecnologias
 - Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
